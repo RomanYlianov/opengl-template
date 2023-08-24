@@ -1,0 +1,17 @@
+G:\VS projects\CGApp\CGApp\bin\Debug\CGApp.exe.config
+G:\VS projects\CGApp\CGApp\bin\Debug\CGApp.exe
+G:\VS projects\CGApp\CGApp\bin\Debug\CGApp.pdb
+G:\VS projects\CGApp\CGApp\bin\Debug\Tao.FreeGlut.dll
+G:\VS projects\CGApp\CGApp\bin\Debug\Tao.OpenGl.dll
+G:\VS projects\CGApp\CGApp\bin\Debug\Tao.Platform.Windows.dll
+G:\VS projects\CGApp\CGApp\bin\Debug\Tao.FreeGlut.xml
+G:\VS projects\CGApp\CGApp\bin\Debug\Tao.OpenGl.xml
+G:\VS projects\CGApp\CGApp\bin\Debug\Tao.Platform.Windows.xml
+G:\VS projects\CGApp\CGApp\obj\Debug\CGApp.csprojAssemblyReference.cache
+G:\VS projects\CGApp\CGApp\obj\Debug\CGApp.Form1.resources
+G:\VS projects\CGApp\CGApp\obj\Debug\CGApp.Properties.Resources.resources
+G:\VS projects\CGApp\CGApp\obj\Debug\CGApp.csproj.GenerateResource.cache
+G:\VS projects\CGApp\CGApp\obj\Debug\CGApp.csproj.CoreCompileInputs.cache
+G:\VS projects\CGApp\CGApp\obj\Debug\CGApp.csproj.CopyComplete
+G:\VS projects\CGApp\CGApp\obj\Debug\CGApp.exe
+G:\VS projects\CGApp\CGApp\obj\Debug\CGApp.pdb
